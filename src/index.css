@@ -99,7 +99,7 @@ body {
 
 .app-container {
   min-height: calc(100vh - 4rem);
-  width: 100%;
+  width: 125%;
   background: var(--bg-gradient);
   border-radius: 24px;
   padding: 2.5rem;
